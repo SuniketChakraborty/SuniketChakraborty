@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuniketChakraborty
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Mern stack 
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me out at suniketchakraborty86@gmail.com
 
